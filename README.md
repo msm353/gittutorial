@@ -44,3 +44,4 @@ feel free to use these emojis: https://gist.github.com/rxaviers/7360908 :relaxed
 - [Amir Azizi :blush: ](https://github.com/AmirRezaAzizi)
 - [Abolfazl Baghlani :stuck_out_tongue_winking_eye: ](https://github.com/Baghlani)
 - [Amin Ashtiani](https://github.com/AminAshtiani)
+- [ msm353 :smiley: ](https://github.com/msm353)
